@@ -1,6 +1,6 @@
 Simples blog feito com Django, Bulma css e Pillow para lidar com imagens.
 
-Para rodar o projeto:<br/>
+Para rodar o projeto:
 
   Para criar o ambiente virtual:
     python -M venv venv 
