@@ -1,6 +1,11 @@
 #Simples blog feito com Django, Bulma css e Pillow para lidar com imagens.
 
 ##Para rodar o projeto
+
+1. Clone o repositorio.
+2. Crie um virtual .env com python 3.9
+3. Ative o virtualenv.
+4. Instale as dependencias.
 ```
   Para criar o ambiente virtual:
     python -M venv venv 
